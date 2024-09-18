@@ -1,4 +1,6 @@
-﻿namespace GrundernaOOP
+﻿//Author: Mattias Åström NET24
+
+namespace GrundernaOOP
 {
     internal class Program
     {
